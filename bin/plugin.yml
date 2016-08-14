@@ -1,0 +1,5 @@
+name: GListHider
+main: me.vik1395.GListHider.Main
+version: 1.0
+description: A plugin that hides certain players from being listed in the /glist command.
+author: Vik1395
